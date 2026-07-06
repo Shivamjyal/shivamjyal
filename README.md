@@ -9,4 +9,4 @@ I am familiar with some programing languages like Python, Java, JavaScript, Bash
 - 🔭 I’m currently working on ... Designing a secure company network with the help of Cisco Packet Tracker.
 - 🌱 I’m currently learning about... About networking, Operating System, Bash scripting, etc.
 - 👯 I’m looking to collaborate on ... Network design and securing
-- 📫 How to reach me: ... My instagram id is:- Shivamjyal and linkdin account is: shivamjyal
+- 📫 How to reach me: ... My instagram and linkdin id is mentiones
